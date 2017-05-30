@@ -1,0 +1,19 @@
+Queuenumber: 1
+Door: open
+Door: closed
+Transaction Successful
+Receipt: 60.0
+--------------------
+Full Inspection: 
+brakes
+suspension
+stearing
+--------------------
+brakes
+Pass
+suspension
+Fail
+stearing
+Pass
+Out of Instructions
+The cost is: 60.0
